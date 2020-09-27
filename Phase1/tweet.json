@@ -1,0 +1,2708 @@
+{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 20:27:36 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "music.apple.com/us/album/dynam\u2026", 
+                "expanded_url": "https://music.apple.com/us/album/dynamite/1529518691?i=1529518695", 
+                "indices": [
+                    30, 
+                    53
+                ], 
+                "url": "https://t.co/ns6KR79IJq"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 6337, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310315173673152515, 
+    "id_str": "1310315173673152515", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 2393, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "iTunes US\n\n#8. Dynamite (+5)\n\nhttps://t.co/ns6KR79IJq", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 16:09:03 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/artist/3Nrfpe0\u2026", 
+                "expanded_url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX?si=v9fpfI_hR7m35jVKJeQA1g", 
+                "indices": [
+                    71, 
+                    94
+                ], 
+                "url": "https://t.co/nCtJFHOxhY"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 5366, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310250107535753217, 
+    "id_str": "1310250107535753217", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1544, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "Spotify Update (26/09): \n\nTotal streams \u2014 11,939,658,860 (+19,911,875) https://t.co/nCtJFHOxhY", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 16:08:36 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/album/6mJZTV8l\u2026", 
+                "expanded_url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS?si=WKJ-LrkMSSCylp2-1yv6gA", 
+                "indices": [
+                    75, 
+                    98
+                ], 
+                "url": "https://t.co/nkbZtMUUMS"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 4077, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310249992884547587, 
+    "id_str": "1310249992884547587", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1168, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "Spotify Update (26/09): \n\nMAP OF THE SOUL: 7 \u2014 1,978,211,915 (+4,105,852)\n\nhttps://t.co/nkbZtMUUMS", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 16:08:11 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/track/0v1x6rN6\u2026", 
+                "expanded_url": "https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE?si=Cx0wfDELRMy8ja3CkDhWnw", 
+                "indices": [
+                    84, 
+                    107
+                ], 
+                "url": "https://t.co/Y0ZfGbWQpg"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 7017, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310249887985004545, 
+    "id_str": "1310249887985004545", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 2392, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "'Dynamite' - Spotify\n\n36th day: 4,943,690\n37th day: 4,785,864\n\nTotal: 206,366,307 \n\nhttps://t.co/Y0ZfGbWQpg", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 15:14:56 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/G3cG5GAowu", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1310151413343944704/photo/1", 
+                "id": 1310151404573601793, 
+                "id_str": "1310151404573601793", 
+                "indices": [
+                    0, 
+                    23
+                ], 
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "medium": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "small": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "source_status_id": 1310151413343944704, 
+                "source_status_id_str": "1310151413343944704", 
+                "source_user_id": 920019286676172800, 
+                "source_user_id_str": "920019286676172800", 
+                "type": "photo", 
+                "url": "https://t.co/G3cG5GAowu"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/G3cG5GAowu", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1310151413343944704/photo/1", 
+                "id": 1310151404573601793, 
+                "id_str": "1310151404573601793", 
+                "indices": [
+                    0, 
+                    23
+                ], 
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "medium": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "small": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "source_status_id": 1310151413343944704, 
+                "source_status_id_str": "1310151413343944704", 
+                "source_user_id": 920019286676172800, 
+                "source_user_id_str": "920019286676172800", 
+                "type": "animated_gif", 
+                "url": "https://t.co/G3cG5GAowu", 
+                "video_info": {
+                    "aspect_ratio": [
+                        249, 
+                        188
+                    ], 
+                    "variants": [
+                        {
+                            "bitrate": 0, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/tweet_video/Ei6Xws-WsAEZDUK.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 18118, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310236488018337792, 
+    "id_str": "1310236488018337792", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "und", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 4156, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "https://t.co/G3cG5GAowu", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 15:14:30 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Tcek8M8Gc7", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1310236380849672194/photo/1", 
+                "id": 1310236377066491905, 
+                "id_str": "1310236377066491905", 
+                "indices": [
+                    99, 
+                    122
+                ], 
+                "media_url": "http://pbs.twimg.com/media/Ei7lCwLX0AEpFxG.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/Ei7lCwLX0AEpFxG.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 2000, 
+                        "resize": "fit", 
+                        "w": 2000
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/Tcek8M8Gc7"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Tcek8M8Gc7", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1310236380849672194/photo/1", 
+                "id": 1310236377066491905, 
+                "id_str": "1310236377066491905", 
+                "indices": [
+                    99, 
+                    122
+                ], 
+                "media_url": "http://pbs.twimg.com/media/Ei7lCwLX0AEpFxG.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/Ei7lCwLX0AEpFxG.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 2000, 
+                        "resize": "fit", 
+                        "w": 2000
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/Tcek8M8Gc7"
+            }
+        ]
+    }, 
+    "favorite_count": 28873, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310236380849672194, 
+    "id_str": "1310236380849672194", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 11088, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "BTS\u2019 next album \u201cBE (Deluxe Edition)\u201d out November 20th! Preorder begins later today at 11 AM KST. https://t.co/Tcek8M8Gc7", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 15:02:42 +0000 2020", 
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15, 
+                    19
+                ], 
+                "text": "BTS"
+            }, 
+            {
+                "indices": [
+                    20, 
+                    26
+                ], 
+                "text": "\ubc29\ud0c4\uc18c\ub144\ub2e8"
+            }, 
+            {
+                "indices": [
+                    31, 
+                    38
+                ], 
+                "text": "BTS_BE"
+            }
+        ], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3UAERKq5si", 
+                "expanded_url": "https://twitter.com/BigHitEnt/status/1310232797408186368/photo/1", 
+                "id": 1310229858128076801, 
+                "id_str": "1310229858128076801", 
+                "indices": [
+                    39, 
+                    62
+                ], 
+                "media_url": "http://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 2000, 
+                        "resize": "fit", 
+                        "w": 2000
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "source_status_id": 1310232797408186368, 
+                "source_status_id_str": "1310232797408186368", 
+                "source_user_id": 168683422, 
+                "source_user_id_str": "168683422", 
+                "type": "photo", 
+                "url": "https://t.co/3UAERKq5si"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 168683422, 
+                "id_str": "168683422", 
+                "indices": [
+                    3, 
+                    13
+                ], 
+                "name": "BigHit Entertainment", 
+                "screen_name": "BigHitEnt"
+            }
+        ]
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/3UAERKq5si", 
+                "expanded_url": "https://twitter.com/BigHitEnt/status/1310232797408186368/photo/1", 
+                "id": 1310229858128076801, 
+                "id_str": "1310229858128076801", 
+                "indices": [
+                    39, 
+                    62
+                ], 
+                "media_url": "http://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 2000, 
+                        "resize": "fit", 
+                        "w": 2000
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 1200
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "source_status_id": 1310232797408186368, 
+                "source_status_id_str": "1310232797408186368", 
+                "source_user_id": 168683422, 
+                "source_user_id_str": "168683422", 
+                "type": "photo", 
+                "url": "https://t.co/3UAERKq5si"
+            }
+        ]
+    }, 
+    "favorite_count": 0, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310233409491537920, 
+    "id_str": "1310233409491537920", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "und", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 261957, 
+    "retweeted": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sun Sep 27 15:00:16 +0000 2020", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0, 
+                        4
+                    ], 
+                    "text": "BTS"
+                }, 
+                {
+                    "indices": [
+                        5, 
+                        11
+                    ], 
+                    "text": "\ubc29\ud0c4\uc18c\ub144\ub2e8"
+                }, 
+                {
+                    "indices": [
+                        16, 
+                        23
+                    ], 
+                    "text": "BTS_BE"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/3UAERKq5si", 
+                    "expanded_url": "https://twitter.com/BigHitEnt/status/1310232797408186368/photo/1", 
+                    "id": 1310229858128076801, 
+                    "id_str": "1310229858128076801", 
+                    "indices": [
+                        24, 
+                        47
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 2000, 
+                            "resize": "fit", 
+                            "w": 2000
+                        }, 
+                        "medium": {
+                            "h": 1200, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "small": {
+                            "h": 680, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/3UAERKq5si"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/3UAERKq5si", 
+                    "expanded_url": "https://twitter.com/BigHitEnt/status/1310232797408186368/photo/1", 
+                    "id": 1310229858128076801, 
+                    "id_str": "1310229858128076801", 
+                    "indices": [
+                        24, 
+                        47
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/Ei7fHTPVoAEDG-1.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 2000, 
+                            "resize": "fit", 
+                            "w": 2000
+                        }, 
+                        "medium": {
+                            "h": 1200, 
+                            "resize": "fit", 
+                            "w": 1200
+                        }, 
+                        "small": {
+                            "h": 680, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "type": "photo", 
+                    "url": "https://t.co/3UAERKq5si"
+                }
+            ]
+        }, 
+        "favorite_count": 614117, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 1310232797408186368, 
+        "id_str": "1310232797408186368", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 261957, 
+        "retweeted": false, 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+        "text": "#BTS #\ubc29\ud0c4\uc18c\ub144\ub2e8 BE\n\n#BTS_BE https://t.co/3UAERKq5si", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Tue Jul 20 14:40:33 +0000 2010", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "\uc548\ub155\ud558\uc138\uc694 \ube45\ud788\ud2b8 \uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 \uc785\ub2c8\ub2e4. Facebook : https://t.co/iSxPWiYTnM", 
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/ibighit", 
+                            "expanded_url": "http://facebook.com/ibighit", 
+                            "indices": [
+                                33, 
+                                56
+                            ], 
+                            "url": "https://t.co/iSxPWiYTnM"
+                        }
+                    ]
+                }, 
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bighitcorp.com", 
+                            "expanded_url": "http://www.bighitcorp.com", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/CyzKyX20Nn"
+                        }
+                    ]
+                }
+            }, 
+            "favourites_count": 6, 
+            "follow_request_sent": false, 
+            "followers_count": 16819149, 
+            "following": false, 
+            "friends_count": 28, 
+            "geo_enabled": false, 
+            "has_extended_profile": false, 
+            "id": 168683422, 
+            "id_str": "168683422", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": null, 
+            "listed_count": 18122, 
+            "location": "Seoul, Korea", 
+            "name": "BigHit Entertainment", 
+            "notifications": false, 
+            "profile_background_color": "FFEDBF", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_tile": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1600329050", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg", 
+            "profile_link_color": "C90404", 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "profile_sidebar_fill_color": "C1C6F5", 
+            "profile_text_color": "383738", 
+            "profile_use_background_image": false, 
+            "protected": false, 
+            "screen_name": "BigHitEnt", 
+            "statuses_count": 6438, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": "https://t.co/CyzKyX20Nn", 
+            "utc_offset": null, 
+            "verified": true
+        }
+    }, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "RT @BigHitEnt: #BTS #\ubc29\ud0c4\uc18c\ub144\ub2e8 BE\n\n#BTS_BE https://t.co/3UAERKq5si", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 11:38:11 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1310181939874234368", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/GNbedL7HIU"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 6988, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310181939874234368, 
+    "id_str": "1310181939874234368", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 2224, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "\"Dynamite\" \u2014 Spotify \n\n#1. Philippines (=) \u2014 311,352 plays\n#1. Indonesia (=) \u2014 251,325 plays\n#1. India (=) \u2014 194,03\u2026 https://t.co/GNbedL7HIU", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 11:28:08 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1310179411120001024", 
+                "indices": [
+                    116, 
+                    139
+                ], 
+                "url": "https://t.co/C2MhJmKxUl"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 8915, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310179411120001024, 
+    "id_str": "1310179411120001024", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 3249, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "\u2018Dynamite\u2019 \u2014 Spotify\n\n\ud83c\udf0eGlobal: #5 (=) \u2014  4,117,542 plays \n\ud83c\uddfa\ud83c\uddf8US: #14 (+2) \u2014 725,807 plays\n\ud83c\uddec\ud83c\udde7UK: #27 (+4) \u2014  170,495\u2026 https://t.co/C2MhJmKxUl", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 09:44:23 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "youtu.be/eLvbn9uSC38", 
+                "expanded_url": "https://youtu.be/eLvbn9uSC38", 
+                "indices": [
+                    17, 
+                    40
+                ], 
+                "url": "https://t.co/4YTLkdLsiQ"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 7090, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310153301657346049, 
+    "id_str": "1310153301657346049", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "in", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1636, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "RM on BANGTANTV! https://t.co/4YTLkdLsiQ", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 09:38:31 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1310151827380412427", 
+                "indices": [
+                    116, 
+                    139
+                ], 
+                "url": "https://t.co/sdcc1m5yyr"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 6470, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310151827380412427, 
+    "id_str": "1310151827380412427", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 1857, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "\ud83d\udcfb US Hot AC Radio\n\n#22. Dynamite (=)\n\n\u2014 Spins: 878 (+27)\n\u2014 Audience: 2.690M (+0.113)\n\n\ud83d\udcfb US AC Radio\n\n#24. Dynamite\u2026 https://t.co/sdcc1m5yyr", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 09:36:53 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/G3cG5GAowu", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1310151413343944704/photo/1", 
+                "id": 1310151404573601793, 
+                "id_str": "1310151404573601793", 
+                "indices": [
+                    97, 
+                    120
+                ], 
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "medium": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "small": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/G3cG5GAowu"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/G3cG5GAowu", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1310151413343944704/photo/1", 
+                "id": 1310151404573601793, 
+                "id_str": "1310151404573601793", 
+                "indices": [
+                    97, 
+                    120
+                ], 
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei6Xws-WsAEZDUK.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "medium": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "small": {
+                        "h": 376, 
+                        "resize": "fit", 
+                        "w": 498
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "animated_gif", 
+                "url": "https://t.co/G3cG5GAowu", 
+                "video_info": {
+                    "aspect_ratio": [
+                        249, 
+                        188
+                    ], 
+                    "variants": [
+                        {
+                            "bitrate": 0, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/tweet_video/Ei6Xws-WsAEZDUK.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 19927, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310151413343944704, 
+    "id_str": "1310151413343944704", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 6777, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "\ud83d\udcfb US Pop Radio\n\n#14. Dynamite (+1) *new peak*\n\n\u2014 Spins: 6832 (+174)\n\u2014 Audience: 26.218M (+0.861) https://t.co/G3cG5GAowu", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 09:06:46 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "youtu.be/5fTg-wez4vE", 
+                "expanded_url": "https://youtu.be/5fTg-wez4vE", 
+                "indices": [
+                    68, 
+                    91
+                ], 
+                "url": "https://t.co/Tcz46Imivj"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 5360, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310143834559598592, 
+    "id_str": "1310143834559598592", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1570, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "Tune in for BTS performance at 30th Lotte Duty Free Family Concert! https://t.co/Tcz46Imivj", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 27 08:18:01 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "music.apple.com/us/playlist/to\u2026", 
+                "expanded_url": "https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31", 
+                "indices": [
+                    62, 
+                    85
+                ], 
+                "url": "https://t.co/hg4vyj8TIz"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 4651, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1310131569479348227, 
+    "id_str": "1310131569479348227", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1363, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "\ud83c\udf0e Apple Music Daily \u2014 Global \n\n#9. Dynamite (+1) *peak: #5*\n\n https://t.co/hg4vyj8TIz", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 21:52:53 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/playlist/37i9d\u2026", 
+                "expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M?si=iG42E377SOum-ubtF0AryA", 
+                "indices": [
+                    82, 
+                    105
+                ], 
+                "url": "https://t.co/k5uIpGYTsm"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 6090, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309974248203653122, 
+    "id_str": "1309974248203653122", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1854, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "Reply your screenshots of streaming \"Dynamite\" on Spotify's 'Today's Top Hits' \ud83c\udfa7\n https://t.co/k5uIpGYTsm", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 16:55:23 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KcGMAw0CrV", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1309899379554373637/photo/1", 
+                "id": 1309899373850046464, 
+                "id_str": "1309899373850046464", 
+                "indices": [
+                    76, 
+                    99
+                ], 
+                "media_url": "http://pbs.twimg.com/media/Ei2yilXWsAA304k.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/Ei2yilXWsAA304k.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "medium": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "small": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/KcGMAw0CrV"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 335141638, 
+                "id_str": "335141638", 
+                "indices": [
+                    1, 
+                    9
+                ], 
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8", 
+                "screen_name": "BTS_twt"
+            }
+        ]
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KcGMAw0CrV", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1309899379554373637/photo/1", 
+                "id": 1309899373850046464, 
+                "id_str": "1309899373850046464", 
+                "indices": [
+                    76, 
+                    99
+                ], 
+                "media_url": "http://pbs.twimg.com/media/Ei2yilXWsAA304k.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/Ei2yilXWsAA304k.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "medium": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "small": {
+                        "h": 510, 
+                        "resize": "fit", 
+                        "w": 680
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/KcGMAw0CrV"
+            }
+        ]
+    }, 
+    "favorite_count": 55272, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309899379554373637, 
+    "id_str": "1309899379554373637", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 13321, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": ".@BTS_twt Spotify account has gained over 4 BILLION streams in 2020 so far. https://t.co/KcGMAw0CrV", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 16:55:12 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/artist/3Nrfpe0\u2026", 
+                "expanded_url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX?si=v9fpfI_hR7m35jVKJeQA1g", 
+                "indices": [
+                    71, 
+                    94
+                ], 
+                "url": "https://t.co/nCtJFHOxhY"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 6631, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309899332024442883, 
+    "id_str": "1309899332024442883", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1626, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "Spotify Update (25/09): \n\nTotal streams \u2014 11,919,746,985 (+20,792,003) https://t.co/nCtJFHOxhY", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 16:55:08 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/album/6mJZTV8l\u2026", 
+                "expanded_url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS?si=WKJ-LrkMSSCylp2-1yv6gA", 
+                "indices": [
+                    75, 
+                    98
+                ], 
+                "url": "https://t.co/nkbZtMUUMS"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 4584, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309899316631306241, 
+    "id_str": "1309899316631306241", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 1081, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "Spotify Update (25/09): \n\nMAP OF THE SOUL: 7 \u2014 1,974,106,063 (+4,320,185)\n\nhttps://t.co/nkbZtMUUMS", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 16:55:02 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "open.spotify.com/track/0v1x6rN6\u2026", 
+                "expanded_url": "https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE?si=Cx0wfDELRMy8ja3CkDhWnw", 
+                "indices": [
+                    64, 
+                    87
+                ], 
+                "url": "https://t.co/Y0ZfGbWQpg"
+            }
+        ], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 8144, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309899291683627014, 
+    "id_str": "1309899291683627014", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 2420, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "'Dynamite' - Spotify\n\n36th day: 4,943,690\n\nTotal: 201,580,443 \n\nhttps://t.co/Y0ZfGbWQpg", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 26 16:54:57 +0000 2020", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DmS7xWk26P", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1309899270884077569/photo/1", 
+                "id": 1309899262193537024, 
+                "id_str": "1309899262193537024", 
+                "indices": [
+                    88, 
+                    111
+                ], 
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei2ycFaXkAA_HTO.jpg", 
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei2ycFaXkAA_HTO.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 350, 
+                        "resize": "fit", 
+                        "w": 480
+                    }, 
+                    "medium": {
+                        "h": 350, 
+                        "resize": "fit", 
+                        "w": 480
+                    }, 
+                    "small": {
+                        "h": 350, 
+                        "resize": "fit", 
+                        "w": 480
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/DmS7xWk26P"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DmS7xWk26P", 
+                "expanded_url": "https://twitter.com/btschartdata/status/1309899270884077569/photo/1", 
+                "id": 1309899262193537024, 
+                "id_str": "1309899262193537024", 
+                "indices": [
+                    88, 
+                    111
+                ], 
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei2ycFaXkAA_HTO.jpg", 
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei2ycFaXkAA_HTO.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 350, 
+                        "resize": "fit", 
+                        "w": 480
+                    }, 
+                    "medium": {
+                        "h": 350, 
+                        "resize": "fit", 
+                        "w": 480
+                    }, 
+                    "small": {
+                        "h": 350, 
+                        "resize": "fit", 
+                        "w": 480
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "animated_gif", 
+                "url": "https://t.co/DmS7xWk26P", 
+                "video_info": {
+                    "aspect_ratio": [
+                        48, 
+                        35
+                    ], 
+                    "variants": [
+                        {
+                            "bitrate": 0, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/tweet_video/Ei2ycFaXkAA_HTO.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 12222, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1309899270884077569, 
+    "id_str": "1309899270884077569", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 2959, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "text": "'Dynamite has surpassed 200 million streams on Spotify, their 6th song to achieve this! https://t.co/DmS7xWk26P", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Mon Oct 16 20:11:05 +0000 2017", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "DYNAMITE OUT NOW", 
+        "entities": {
+            "description": {
+                "urls": []
+            }, 
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bts.lnk.to/Dynamite", 
+                        "expanded_url": "http://bts.lnk.to/Dynamite", 
+                        "indices": [
+                            0, 
+                            23
+                        ], 
+                        "url": "https://t.co/RkE3dDB3sP"
+                    }
+                ]
+            }
+        }, 
+        "favourites_count": 12854, 
+        "follow_request_sent": false, 
+        "followers_count": 1185258, 
+        "following": false, 
+        "friends_count": 95, 
+        "geo_enabled": false, 
+        "has_extended_profile": false, 
+        "id": 920019286676172800, 
+        "id_str": "920019286676172800", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 3951, 
+        "location": "", 
+        "name": "BTS Charts", 
+        "notifications": false, 
+        "profile_background_color": "000000", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920019286676172800/1597530436", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294762212809224192/xFVFwkqm_normal.jpg", 
+        "profile_link_color": "040404", 
+        "profile_sidebar_border_color": "000000", 
+        "profile_sidebar_fill_color": "000000", 
+        "profile_text_color": "000000", 
+        "profile_use_background_image": false, 
+        "protected": false, 
+        "screen_name": "btschartdata", 
+        "statuses_count": 24508, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": "https://t.co/RkE3dDB3sP", 
+        "utc_offset": null, 
+        "verified": false
+    }
+}
