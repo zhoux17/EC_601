@@ -1,4 +1,4 @@
-//Twitter API results: 
+#Twitter API results: 
 
 '''tweets = api.user_timeline(screen_name, count = count )
     for tweet in tweets:
@@ -53,17 +53,17 @@ btsvotingorg
 Writing tweet objects to JSON please wait...
 Done
 
-
-'''def todays_stats(dict_name):
-  # Get my account information
+'''
+def todays_stats(dict_name):
+  '''Get my account information'''
   info = api.me()
-  # Get follower and following counts
+  '''Get follower and following counts'''
   followers_cnt = info.followers_count  
   following_cnt = info.friends_count
-  # Get today's date
+  '''Get today's date'''
   today = date.today()
   d = today.strftime("%b %d, %Y")
-  # Save today's stats only if they haven't been collected before
+  '''Save today's stats only if they haven't been collected before'''
   if d not in dict_name:
     dict_name[d] = {"followers":followers_cnt, "following":following_cnt}
 
@@ -81,7 +81,7 @@ Done
  ''' ----> Get the account status of the day, including the follwers count and following count. Then store them in the .json file. 
 
 
-//Google NLP API results 
+#Google NLP API results 
 
 '''
 Text: I love softdrink
