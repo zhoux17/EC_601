@@ -27,6 +27,24 @@ on the news.
 
 
 
+*MVP 
+Python, Google NLP API, Twitter API
+
+
+*User Story 
+When a new product or policy is published to the publish, the publisher want to know how is the feedback while people are first time heard about the news. So they can search by the topic-related hashtag to collect the tweets, and then analyze these information by importing into the Google NLP API. In thios way, they can know the public's attitude on the new decision. 
+
+
+*Modular Design
+First get the topic-related tweets by hashtag, using Twitter API and stored in a .json file. Then export the .json file into a .csv file. Analyze the exported text using Google NLP API. Lastly, analyze them and output the overall sentiment/ magnitude shown as an overview of the attitude of the public. 
+
+
+*User
+The advertisers/ government who want to get the feedback while publish a new produc or policy to the public. And based on the feedback to make any changes. 
+
+
+
+
 
 
 
