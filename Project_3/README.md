@@ -4,6 +4,7 @@ Prerequisites:
 * Linux 
 * Python 3.8
 * GPU-capable Windows or macOS 
+* NVIDIA driver
 
 Installation
 * TIMIT-corpus, available: https://www.kaggle.com/nltkdata/timitcorpus
