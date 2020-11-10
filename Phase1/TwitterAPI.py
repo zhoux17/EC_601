@@ -7,10 +7,10 @@ import json
 import os
 
 #Twitter API credentials
-CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }} 
-CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}  
-ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} 
-ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+consumer_key: ${{ secrets.CONSUMER_KEY }} 
+consumer_secret: ${{ secrets.CONSUMER_SECRET }}  
+access_key: ${{ secrets.ACCESS_TOKEN }} 
+access_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
 
 
 def get_all_tweets(screen_name):
