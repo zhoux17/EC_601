@@ -7,10 +7,10 @@ import json
 import os
 
 #Twitter API credentials
-consumer_key: ${{ secrets.CONSUMER_KEY }} 
-consumer_secret: ${{ secrets.CONSUMER_SECRET }}  
-access_key: ${{ secrets.ACCESS_TOKEN }} 
-access_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
+CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+CONSUMER_SECRET:  ${{ secrets.CONSUMER_SECRET }} 
+ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
 
 
 def get_all_tweets(screen_name):
@@ -19,7 +19,7 @@ def get_all_tweets(screen_name):
     
     #authorize twitter, initialize tweepy
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_key, access_secret)
+    auth.set_access_token(access_token, access_token_secret)
     api = tweepy.API(auth)
     ## The first tweet##
     api.update_status(status ="Hello Everyone !")
