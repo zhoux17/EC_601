@@ -1,12 +1,13 @@
 import tweepy
 import csv
 import pandas as pd
-####input your credentials here
-consumer_key = ''
-consumer_secret = ''
-access_token = ''
-access_token_secret = ''
 
+####input your credentials here
+CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+CONSUMER_SECRET:  ${{ secrets.CONSUMER_SECRET }} 
+ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+  
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth,wait_on_rate_limit=True)
