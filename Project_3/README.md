@@ -17,3 +17,12 @@ Installation
 
 
 Since there is something wrong with the SCC, which said my SCC quota has been full. And I'm using MacOS which does not contain a GPU. So I cannot continue with CUDA related training. I will go back once SCC gets back to work. 
+
+
+
+
+**UPDATE 
+
+After deleting the unnecessary files in SCC, I moved files/ libraries to the group directory. (Storage Issue) 
+
+Since there is no GPU in Macbook so I can only try on SCC. But I keep getting errors while update/ install the libraries.  (Not on the sudoers list)
