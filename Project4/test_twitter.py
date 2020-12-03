@@ -14,15 +14,15 @@ class OAuthTest(unittest.TestCase):
 
     def test_oauth_1(self):
         """Test user authentication."""
-        api = TwitterAPI(self.oa.consumer_key, self.oa.consumer_secret,
-                         self.oa.access_token, self.oa.access_token_secret)
+        api = TwitterAPI(self.oa.CONSUMER_KEY, self.oa.CONSUMER_SECRET,
+                         self.oa.ACCESS_TOKEN, self.oa.ACCESS_TOKEN_SECRET)
         status_code = self.verify_credentials(api)
         # 200 means success
         self.assertEqual(status_code, 200)
 
     def test_oauth_2(self):
         """Test application authentication."""
-        api = TwitterAPI(self.oa.consumer_key, self.oa.consumer_secret,
+        api = TwitterAPI(self.oa.CONSUMER_KEY, self.oa.CONSUMER_SECRET,
                          auth_type='oAuth2')
         status_code = self.verify_credentials(api)
         # 403 means no access, which is correct since no user credentials
