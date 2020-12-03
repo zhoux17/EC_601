@@ -70,7 +70,7 @@ def get_all_tweets(screen_name):
         oldest = alltweets[-1].id - 1
         if(len(alltweets) > 15):
             break
-        print "...%s tweets downloaded so far" % (len(alltweets))
+        print ("...%s tweets downloaded so far" % (len(alltweets)))
        
     #write tweet objects to JSON
     file = open('tweet.json', 'w') 
