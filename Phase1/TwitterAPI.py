@@ -6,11 +6,18 @@ import tweepy #https://github.com/tweepy/tweepy
 import json
 import os
 
+
+
+CONSUMER_KEY = os.getenv('CONSUMER_KEY')
+CONSUMER_SECRET = os.getenv('CONSUMER_SECRET')
+ACCESS_TOKEN = os.getenv('ACCESS_TOKEN')
+ACCESS_TOKEN_SECRET = os.getenv('ACCESS_TOKEN_SECRET')
+
 #Twitter API credentials
-CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
-CONSUMER_SECRET:  ${{ secrets.CONSUMER_SECRET }} 
-ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+# CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+# CONSUMER_SECRET:  ${{ secrets.CONSUMER_SECRET }} 
+# ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+# ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
 
 
 def get_all_tweets(screen_name):
