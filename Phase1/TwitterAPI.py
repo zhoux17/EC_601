@@ -76,7 +76,7 @@ def get_all_tweets(screen_name):
        
     #write tweet objects to JSON
     file = open('tweet.json', 'w') 
-    print "Writing tweet objects to JSON please wait..."
+    print ("Writing tweet objects to JSON please wait...")
     for status in alltweets:
         json.dump(status._json,file,sort_keys = True,indent = 4)
     
