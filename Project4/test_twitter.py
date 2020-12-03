@@ -15,7 +15,7 @@ class OAuthTest(unittest.TestCase):
     def test_oauth_1(self):
         """Test user authentication."""
         api = TwitterAPI(self.oa.consumer_key, self.oa.consumer_secret,
-                         self.oa.access_token_key, self.oa.access_token_secret)
+                         self.oa.access_token, self.oa.access_token_secret)
         status_code = self.verify_credentials(api)
         # 200 means success
         self.assertEqual(status_code, 200)
