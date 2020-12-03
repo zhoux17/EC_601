@@ -79,7 +79,7 @@ def get_all_tweets(screen_name):
         json.dump(status._json,file,sort_keys = True,indent = 4)
     
     #close the file
-    print "Done"
+    print ("Done")
     file.close()
 
 
