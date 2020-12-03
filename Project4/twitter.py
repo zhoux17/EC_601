@@ -102,7 +102,7 @@ def todays_stats(dict_name):
     for status in dict_name:
         json.dump(status._json,file,sort_keys = True,indent = 4)
     #close the file
-    print "Done"
+    print ("Done")
     file.close()
     #save_json("follower_history.json", dict_name)
   else:
