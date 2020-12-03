@@ -98,7 +98,7 @@ def todays_stats(dict_name):
     dict_name[d] = {"followers":followers_cnt, "following":following_cnt}
 
     file = open('follower_history.json', 'w') 
-    print "Writing tweet objects to JSON please wait..."
+    print ("Writing tweet objects to JSON please wait...")
     for status in dict_name:
         json.dump(status._json,file,sort_keys = True,indent = 4)
     #close the file
