@@ -1,5 +1,6 @@
 from TwitterAPI import TwitterAPI, TwitterOAuth
 import unittest
+import twitter
 
 
 class OAuthTest(unittest.TestCase):
