@@ -87,29 +87,29 @@ def get_all_tweets(screen_name):
 
 
 
-def todays_stats(dict_name):
-  # Get my account information
-  info = api.me()
-  # Get follower and following counts
-  followers_cnt = info.followers_count  
-  following_cnt = info.friends_count
-  # Get today's date
-  today = date.today()
-  d = today.strftime("%b %d, %Y")
-  # Save today's stats only if they haven't been collected before
-  if d not in dict_name:
-    dict_name[d] = {"followers":followers_cnt, "following":following_cnt}
+# def todays_stats(dict_name):
+#   # Get my account information
+#   info = api.me()
+#   # Get follower and following counts
+#   followers_cnt = info.followers_count  
+#   following_cnt = info.friends_count
+#   # Get today's date
+#   today = date.today()
+#   d = today.strftime("%b %d, %Y")
+#   # Save today's stats only if they haven't been collected before
+#   if d not in dict_name:
+#     dict_name[d] = {"followers":followers_cnt, "following":following_cnt}
 
-    file = open('follower_history.json', 'w') 
-    print ("Writing tweet objects to JSON please wait...")
-    for status in dict_name:
-        json.dump(status._json,file,sort_keys = True,indent = 4)
-    #close the file
-    print ("Done")
-    file.close()
-    #save_json("follower_history.json", dict_name)
-  else:
-    print('Today\'s stats already exist')
+#     file = open('follower_history.json', 'w') 
+#     print ("Writing tweet objects to JSON please wait...")
+#     for status in dict_name:
+#         json.dump(status._json,file,sort_keys = True,indent = 4)
+#     #close the file
+#     print ("Done")
+#     file.close()
+#     #save_json("follower_history.json", dict_name)
+#   else:
+#     print('Today\'s stats already exist')
 
 
 
