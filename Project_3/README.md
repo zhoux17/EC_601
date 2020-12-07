@@ -51,4 +51,4 @@ python detect_open_mouth.py
 and allow the access of webcam. 
 
 Example: 
-https://github.com/zhoux17/EC_601/blob/master/Project_3/mouth.png
+![](mouth.png)
