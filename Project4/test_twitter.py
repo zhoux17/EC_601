@@ -23,5 +23,5 @@ def tweets():
     
     
     
-if __name__ == '__main__':
-    pytest.main("twitter.py")
+# if __name__ == '__main__':
+#     pytest.main("twitter.py")
