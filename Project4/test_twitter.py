@@ -8,17 +8,15 @@
 # # 	assert fun.add(1.5, 1.7) == approx(3.1)
 
 import sys
-sys.path.append('.')
-
 import twitter
+sys.path.append('.')
 
 twitter_tweets = twitter.get_all_tweets()
 
 def tweets():
-    id = '0000000000000000'
     count = 3
     num = []
-    num = twitter.get_all_tweets(twitter_tweets, id, count)
+    num = twitter.get_all_tweets(twitter_tweets,count)
     assert len(num) == 0
     
     
