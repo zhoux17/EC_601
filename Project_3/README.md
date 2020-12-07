@@ -24,11 +24,13 @@ Since there is no GPU in Macbook so I can only try on SCC. But I keep getting er
 
 I use virtual environemt and write the bash file for the GPU using in SCC, still not working. 
 
-**UPDATE***
+-----------------------------
+**UPDATE
 
 So i use another open-source library called mouth-open for this project, which also has used for the group project. 
 
 ***Usage***
+
 python detect_videofile_mouth.py -f file_name.ext
 
 *Requirements: 
